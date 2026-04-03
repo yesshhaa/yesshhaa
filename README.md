@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Yesha and I'm a Cybersecurity Student </h2>
+<h2 align="left">Hi 👋! My name is Yesha </h2>
+I'm a Cybersecurity Student </br>
 
 ###
 
