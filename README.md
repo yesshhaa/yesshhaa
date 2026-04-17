@@ -11,7 +11,7 @@
 - 🎓 Studying **Cybersecurity** — learning to break things ethically
 - 🔨 Currently building **[Improv.](https://github.com/YOUR_USERNAME/improv)** — an AI prompt refinement tool
 - 🌱 Always learning something new
-- ⚡ Fun fact: I can debug code faster than I can decide what to eat
+- ⚡ Fun fact: I love pasta and I love to read book !!
 
 <br clear="both"/>
 
