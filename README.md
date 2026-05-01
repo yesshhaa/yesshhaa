@@ -38,15 +38,6 @@
 ---
 
 
-
-### 🔥 Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d0d0d&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="streak" />
-</div>
-
----
-
 ### 🌐 Find me here
 
 <div align="left">
