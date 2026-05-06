@@ -37,16 +37,6 @@
 
 <br/>
 
-**🔐 Cybersecurity Tools**
-<div align="left">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="28" alt="Wireshark" title="Wireshark" />
-  <img src="https://img.shields.io/badge/Autopsy-4B4B4B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=&logoColor=white" height="28" alt="Autopsy" title="Autopsy (Digital Forensics)" />
-  <img src="https://img.shields.io/badge/FTK-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0xIDEzSDExVjExaDJ2NHptMC00SDExVjdoMnYyeiIvPjwvc3ZnPg==&logoColor=white" height="28" alt="FTK" title="FTK (Forensic Toolkit)" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" height="28" alt="Splunk" title="Splunk (SIEM)" />
-  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="28" alt="Microsoft Sentinel" title="Microsoft Sentinel (SIEM)" />
-  <img src="https://img.shields.io/badge/IBM_QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white" height="28" alt="IBM QRadar" title="IBM QRadar (SIEM)" />
-</div>
-
 ---
 
 ### 🌐 Find me here
