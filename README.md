@@ -8,7 +8,7 @@
 
 ### 🛡️ About Me
 - 🎓 Studying **Cybersecurity** — learning to break things ethically
-- 🔨 Currently building **[Improv.](https://github.com/yesshhaa/improv)** — an AI prompt refinement tool
+- 🔨 Currently working on some projects 
 - 🌱 Always learning something new
 - ⚡ Fun fact: I love pasta and I love to read books!!
 
