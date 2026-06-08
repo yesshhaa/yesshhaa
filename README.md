@@ -18,7 +18,7 @@
 
 ### 🧰 Tech Stack
 
-**🗣️ Languages**
+**Languages**
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -31,7 +31,7 @@
 
 <br/>
 
-**🧩 Frameworks & Libraries**
+**Frameworks & Libraries**
 
 <div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -42,7 +42,7 @@
 
 <br/>
 
-**🔐 Offensive Security**
+**Offensive Security**
 
 <div align="left">
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
@@ -55,7 +55,7 @@
 
 <br/>
 
-**🔍 Defensive & Analysis**
+**Defensive & Analysis**
 
 <div align="left">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
